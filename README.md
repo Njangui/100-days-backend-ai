@@ -1,2 +1,9 @@
-# 100-days-backend-ai
-I take the resolution to build a strong competence in backend and AI devoleppoment start from zero. basic in React.js, TypeScript, JavaScript, Tailwin and Next.js later
+# 100 Days of Backend & AI
+
+**Objectif** : Devenir développeur backend/IA full-stack
+**Début** : Jour 1 - [date d'aujourd'hui]
+**Stack** : Python → FastAPI → React → Machine Learning
+
+## Log quotidien
+- Days 1 : Setup environnement + first exercices Python
+-
